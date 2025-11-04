@@ -55,3 +55,14 @@ Understanding user engagement, behavioral shifts, and the intersection of well-b
 
 ⭐ *Where experience evolves into analytics — transforming real-world decisions into data-driven insights.*
 
+---
+
+### 📊 GitHub Stats Corner
+
+**Profile Views Counter**
+
+![Visitor Count](https://komarev.com/ghpvc/?username=KalyanDataGuy&label=Profile+Views&color=brightgreen&style=flat)
+
+💡 *Thanks for stopping by — every view tells a story of connection and curiosity.*
+
+
