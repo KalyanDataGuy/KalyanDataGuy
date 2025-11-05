@@ -1,68 +1,29 @@
-# 👋 Hi, I'm Kalyan (KalyanDataGuy)
+# 🌟 KalyanDataGuy Portfolio
+
+Welcome! This repo serves as the **navigation index** for all my Data Analytics sections.
 
 ---
 
-## 🌍 About Me  
+## 🔹 1. About Me
+Personal introduction & career transition into Data Analytics.  
+[View About Me](https://github.com/KalyanDataGuy/About-Me-KalyanDataGuy_AboutMe)
 
-I’m transitioning into **Data Analytics**, combining over a decade of real-world business and operational experience with modern analytical tools.  
-Currently completing advanced hands-on training in **Power BI, Oracle SQL, Tableau, Excel, and Python** — learning to transform data into insight, and insight into direction.  
+## 🔹 2. Learning & Skills
+Skills, certifications, and learning roadmap.  
+[View Learning & Skills](https://github.com/KalyanDataGuy/Learning-Skills-KalyanDataGuy_LearningStack)
 
-With **12+ years** in driving operations, workforce insights, and performance improvement,  
-I bring a unique mix of **business understanding and analytical problem-solving** to every project.  
+## 🔹 3. Current Focus
+Current projects, learning progress, and global career targets.  
+[View Current Focus](https://github.com/KalyanDataGuy/Current-Focus-KalyanDataGuy_CurrentFocus)
 
-I’m now focused on building **portfolio-ready analytics projects** that demonstrate visualization, storytelling, and data-driven decision-making — designed for global impact.  
+## 🔹 4. 365-Day DataLoop Series
+Analytical storytelling series — micro-decisions, data drift, human signal.  
+[View DataLoop Series](https://github.com/KalyanDataGuy/365-Day-DataLoop-Series-KalyanDataGuy_365Day-DataLoop)
 
----
+## 🔹 5. Featured Portfolio Projects
+Applied analytics projects demonstrating end-to-end data analysis.  
+[View Featured Projects](https://github.com/KalyanDataGuy/Featured-Portfolio-Projects-KalyanDataGuy_FeaturedProjects)
 
-## 🧠 Learning & Technical Stack  
-
-- **Visualization:** Power BI (Intermediate), Tableau (Beginner–Intermediate)  
-- **Data Management:** Oracle SQL (Intermediate), Excel (Advanced)  
-- **Programming:** Python (Beginner–Intermediate)  
-- **Focus Areas:** Business Insights, Market Analytics, AI Trends, Social Analytics  
-
----
-
-## 🚀 Featured Portfolio Projects  
-
-### 🟢 **Pro 1 — Global Innovation Analytics**  
-Exploring worldwide data to visualize adoption trends, regional readiness, and performance impact.  
-
-### 🔵 **Pro 2 — AI Global Impact**  
-Analyzing how artificial intelligence influences workforce dynamics, innovation, and business sustainability globally.  
-
-### 🟣 **Pro 3 — Digital Behavior Analytics**  
-Understanding user engagement, behavioral shifts, and the intersection of well-being and digital activity.  
-
-> 📊 *Each project is designed to demonstrate end-to-end data analysis — from raw data to visualization and interpretation.*
-
----
-
-## 🎯 Current Focus  
-
-- Completing my **Data Analytics training by Dec 2025**  
-- Publishing all **project dashboards and notebooks on GitHub** by **Dec 2025**  
-- Targeting **Global Data Analyst / BI Analyst roles** in **Germany, Netherlands, Canada, Singapore, and UAE**
-
----
-
-## 💬 Let’s Connect  
-
-📫 **LinkedIn:** [linkedin.com/in/kalyandataguy](https://www.linkedin.com/in/kalyandataguy)  
-🌐 **Portfolio Repository:** [github.com/KalyanDataGuy](https://github.com/KalyanDataGuy)
-
----
-
-⭐ *Where experience evolves into analytics — transforming real-world decisions into data-driven insights.*
-
----
-
-### 📊 GitHub Stats Corner
-
-**Profile Views Counter**
-
-![Visitor Count](https://komarev.com/ghpvc/?username=KalyanDataGuy&label=Profile+Views&color=brightgreen&style=flat)
-
-💡 *Thanks for stopping by — every view tells a story of connection and curiosity.*
-
-
+## 🔹 6. Let’s Connect
+Contact, collaboration, and professional networking.  
+[View Connect](https://github.com/KalyanDataGuy/KalyanDataGuy_Connect)
