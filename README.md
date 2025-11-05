@@ -27,3 +27,17 @@ Applied analytics projects demonstrating end-to-end data analysis.
 ## 🔹 6. Let’s Connect
 Contact, collaboration, and professional networking.  
 [View Connect](https://github.com/KalyanDataGuy/KalyanDataGuy_Connect)
+
+
+---
+
+👤 **About the Author**  
+*KalyanDataGuy — an aspiring data analyst blending storytelling, analytics, and human decisions through data.*
+
+---
+
+### 📊 GitHub Stats Corner
+
+**Profile Views Counter**
+
+![Visitor Count](https://komarev.com/ghpvc/?username=KalyanDataGuy&label=Profile+Views&color=brightgreen&style=flat)
