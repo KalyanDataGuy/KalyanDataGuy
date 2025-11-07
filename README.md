@@ -23,7 +23,7 @@ Current projects, learning progress, and global career targets.
 
 ## 🔹 4. 365-Day DataLoop Series
 Analytical storytelling series — micro-decisions, data drift, human signal.  
-[View DataLoop Series](https://github.com/KalyanDataGuy/365-Day-DataLoop-Series-KalyanDataGuy_365Day-Data-Loop)  
+[View DataLoop Series](https://github.com/KalyanDataGuy/365-Day-DataLoop-Series-KalyanDataGuy_365Day-DataLoop) 
 *Peek: ☕📉 Experimental Lab — doing + storytelling with daily data patterns*
 
 ## 🔹 5. Analytical Think Pieces 🖋️
