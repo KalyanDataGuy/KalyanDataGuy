@@ -46,5 +46,6 @@ Contact, collaboration, and professional networking.
 👤 **About the Author**  
 KalyanDataGuy — an aspiring data analyst blending storytelling, analytics, and human decisions through data.
 
-📊 **GitHub Stats Corner**  
-Profile Views Counter
+📊 **GitHub Profile Views**  
+![](https://komarev.com/ghpvc/?username=KalyanDataGuy&color=blue&style=flat-square)
+
