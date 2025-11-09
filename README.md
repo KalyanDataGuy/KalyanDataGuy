@@ -26,7 +26,7 @@ Analytical storytelling series — micro-decisions, data drift, human signal.
 [View DataLoop Series](https://github.com/KalyanDataGuy/365-Day-DataLoop-Series-KalyanDataGuy_365Day-DataLoop) 
 *Peek: ☕📉 Experimental Lab — doing + storytelling with daily data patterns*
 
-## 🔹 5. 🔍 Analytical Think Pieces 🖋️
+## 🔹 5. 🔍 Analytical Think Pieces Series — ORIGINALS 🖋️
 Reflective storytelling articles — insights on career, work, and data.  
 [View All Articles](https://github.com/KalyanDataGuy/KalyanDataGuy-Analytical-Think-Pieces)  
 *Peek: 🔍 Insight Hub — thinking + analytical storytelling, actionable insights*
