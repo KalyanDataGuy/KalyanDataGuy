@@ -38,7 +38,7 @@ Applied analytics projects demonstrating end-to-end data analysis.
 
 ## 🔹 7. 📊⚡ Data Analytics Cheatsheets — Geek Edition ORIGINALS 📊⚡
 (A curated collection of Data Analytics cheatsheets — quick, actionable, and ready for real-world use.
-[View Cheatsheets]( )  
+[View Cheatsheets](https://github.com/KalyanDataGuy/Data-Analytics-Cheatsheets-Geek-Edition-ORIGINALS)  
 Peek: 🖋️ Knowledge Hub — original, branded cheat sheets for coding, analytics, and workflow hacks)
  
 ## 🔹 8. 🤝 Let’s Connect
