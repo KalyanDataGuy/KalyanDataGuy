@@ -36,7 +36,12 @@ Applied analytics projects demonstrating end-to-end data analysis.
 [View Featured Projects](https://github.com/KalyanDataGuy/Featured-Portfolio-Projects-KalyanDataGuy_FeaturedProjects)  
 *Peek: 💻 Project Playground — real-world analytics workflow in action*
 
-## 🔹 7. 🤝 Let’s Connect
+## 🔹 7. 📊⚡ Data Analytics Cheatsheets — Geek Edition ORIGINALS 📊⚡
+(A curated collection of Data Analytics cheatsheets — quick, actionable, and ready for real-world use.
+[View Cheatsheets]( )  
+Peek: 🖋️ Knowledge Hub — original, branded cheat sheets for coding, analytics, and workflow hacks)
+ 
+## 🔹 8. 🤝 Let’s Connect
 Contact, collaboration, and professional networking.  
 [View Connect](https://github.com/KalyanDataGuy/KalyanDataGuy_Connect)  
 *Peek: 🤝 Network Corner — ways to reach out, collaborate, or connect*
