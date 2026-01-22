@@ -1,3 +1,6 @@
+# My Independent Data Analytics Portfolio: https://wat-nxt.com
+# wat-nxt | Data, Business & Operations Analytics 
+
 # 🌟 KalyanDataGuy Portfolio 🚀
 
 Welcome to my **data playground**!  
