@@ -1,11 +1,11 @@
-# My Independent Data Analytics Portfolio: https://wat-nxt.com
+# Data Analytics Portfolio: https://wat-nxt.com
 # wat-nxt | Data, Business & Operations Analytics 
 
 # 🌟 KalyanDataGuy Portfolio 🚀
 
-Welcome to my **data playground**!  
-This repo is your **navigation hub** for everything I create, learn, and explore in Data Analytics.  
-Think dashboards meet storytelling — human insight meets code.
+This repository serves as a **navigation hub** for my **analytics** work.
+It showcases practical, execution-focused analysis using **real-world datasets**,
+with emphasis on data cleaning, SQL logic, and business-oriented insights.
 
 ---
 
